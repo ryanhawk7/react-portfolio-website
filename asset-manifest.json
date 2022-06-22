@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.c8644cb1.css",
+    "main.js": "/react-portfolio-website/static/js/main.cb61dc80.js",
+    "static/media/investfourmore.PNG": "/react-portfolio-website/static/media/investfourmore.336af6f76e629406a852.PNG",
+    "static/media/cv.pdf": "/react-portfolio-website/static/media/cv.960bf0288b6aa1dff12c.pdf",
+    "static/media/residy.PNG": "/react-portfolio-website/static/media/residy.bd9814d7c9859fa0e24b.PNG",
+    "static/media/SeniorDesign.JPG": "/react-portfolio-website/static/media/SeniorDesign.ccbb6661e3d44783fc10.JPG",
+    "static/media/referralbeehome.JPG": "/react-portfolio-website/static/media/referralbeehome.9fab11a59b24f90b607b.JPG",
+    "static/media/KeplerianElements.JPG": "/react-portfolio-website/static/media/KeplerianElements.f8111667184214eb7e0b.JPG",
+    "static/media/portfolio3.jpg": "/react-portfolio-website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/bg-texture.png": "/react-portfolio-website/static/media/bg-texture.2267747282bb1ad7c887.png",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.c8644cb1.css.map": "/react-portfolio-website/static/css/main.c8644cb1.css.map",
+    "main.cb61dc80.js.map": "/react-portfolio-website/static/js/main.cb61dc80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8644cb1.css",
+    "static/js/main.cb61dc80.js"
+  ]
+}
