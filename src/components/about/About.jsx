@@ -3,11 +3,12 @@ import './About.css'
 import {MdSchool} from 'react-icons/md'
 import {MdWorkOutline} from 'react-icons/md'
 import {RiPencilRuler2Line} from 'react-icons/ri'
+import CTA from './CTA'
+import HeaderSocials from './HeaderSocials'
 
 const About = () => {
   return (
     <section id='about'>
-      <h5>Get To Know</h5>
       <h2>About Me</h2>
 
       <div className='container about__container'>
@@ -25,7 +26,7 @@ const About = () => {
             <article className='about__card'>
               <MdWorkOutline className='about__icon'/>
               <h5>Experience</h5>
-              <small>2+ Years of Website and App Experience working as a Web Assistant and Applicatoin Developer</small>
+              <small>2+ Years of Website and App Experience working as a Web Assistant and Application Developer</small>
             </article>
 
             <article className='about__card'>
@@ -43,7 +44,11 @@ const About = () => {
             libraries, AutoCAD, and Blender.
           </p>
 
-          <a href='#contact' className='btn btn-primary'>Let's Talk </a>
+          <div className='about__btns'>
+            <CTA/>
+            <HeaderSocials/>
+          </div>
+
 
         </div>
 
