@@ -9,7 +9,7 @@ const portfolio__data = [
     id: 1,
     image: IMG1, 
     title: 'Senior Design Project',
-    description: 'Our team website for our first place senior design project. I was responsible for leading the interdiciplinary team of engineers, creating and updating the team website detailing the progress of the project, all entrepreneurship objectives of the project, as well as assisting with electrical and programming related tasks.',
+    description: 'Our team website for our first place senior design project. I was responsible for leading an interdiciplinary team of engineers, creating and updating the team website detailing the progress of the project, all entrepreneurship objectives of the project, as well as assisting with electrical and programming related tasks.',
     github: 'https://github.com/ryanhawk7/Senior-Design-Skateboard-Website',
     demo: 'https://projects-web.engr.colostate.edu/ece-sr-design/AY21/skateboard/',
   },

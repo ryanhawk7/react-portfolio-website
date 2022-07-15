@@ -9,7 +9,9 @@ import {SiThreedotjs} from 'react-icons/si'
 import {FaJava} from 'react-icons/fa'
 import {FaPhp} from 'react-icons/fa'
 import {SiCplusplus} from 'react-icons/si'
-import {FaPython} from 'react-icons/fa'
+import {SiMysql} from 'react-icons/si'
+import {AiOutlineApi} from 'react-icons/ai'
+
 
 
 
@@ -54,8 +56,12 @@ const backend = [
     icon: SiCplusplus
   },
   { 
-    title: 'Python',
-    icon: FaPython
+    title: 'MySQL',
+    icon: SiMysql
+  },
+  { 
+    title: 'APIs',
+    icon: AiOutlineApi
   }
 ]
 

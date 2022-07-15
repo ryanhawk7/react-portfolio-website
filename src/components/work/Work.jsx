@@ -13,22 +13,22 @@ const data = [
   {
     image: WORKIMG1,
     company: 'ReferralBee',
-    job__title: 'Web Application Developer - Jun 2021 - Present',
-    job__description: 'I utilized React.js and PHP to create and interconnect several real estate applications related to lead generation, lead nurturing, and lead distribution. Worked heavily independently as well as with a small team utilizing Figma, Miro, Twilio, and Bubble to create custom CRM software.',
+    job__title: 'Web Developer - Jun 2021 - Present',
+    job__description: "I utilized React.js, HTML, CSS, and JavaScript to build the company's responsive front-end website. I also developed the back-end system using PHP, MySQL, and RESTful APIs to create and interconnect several real estate applications related to lead generation, lead nurturing, and lead distribution. I worked heavily independently as well as with front-end and UI/UX developers utilizing Figma, Miro, Twilio, and Bubble throughout the full-stack web development process as well as to create custom CRM software.",
     live__site:'https://referralbee.co/'
   },
   {
     image: WORKIMG2,
-    company: 'InvestFourMore',
+    company: 'InvestFourMore.com',
     job__title: 'Web Assistant - Jan 2021 - Apr 2022',
-    job__description: 'I maintained and assisted with various websites and applications utilizing WordPress, HTML, and CSS to maximize SEO performance. Created statistical analysis of finances and data and collaborated with a team to improve online reach and sales. Collaborated with a team of five employees to improve and deploy various applications. For the live site, I was responsible for all course landing pages, the imbedded store page, redoing all background blog post SEO, and book listings.',
+    job__description: 'I maintained and updated the company blog, web store, and education center utilizing WordPress, HTML, CSS, and Teachable to maximize SEO performance, increase responsiveness, and improve accessibility. I also created statistical analysis of finances and data and collaborated with a team to improve online reach and sales by updating email marketing and improving SEO.',
     live__site:'https://investfourmore.com/'
   },
   {
     image: WORKIMG3,
-    company: 'Residy',
+    company: 'Residy Real Estate Leads',
     job__title: 'Web Assistant - Jul 2020 - Jun 2021',
-    job__description: 'I created and managed WordPress site and landing pages. Responsible for several ad accounts utilizing ManyChat, Facebook Ads, and Google Ads, to provide a 3.7 times ROI on real estate lead generation.',
+    job__description: 'I created and managed WordPress site and landing pages primarily utlilizing HTML and CSS. I was responsible for several ad accounts and for creating multiple ad creatives utilizing ManyChat, Facebook Ads, Google Ads, and A/B testing to provide a 3.7 times ROI on real estate lead generation.',
     live__site: null
   }
 ]
